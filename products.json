@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Titular",
+    "description": "Camiseta titular",
+    "category": "Primer equipo",
+    "price": 18500,
+    "thumbnails": ["public/1-t.avif"],
+    "code": "pincha701",
+    "stock": 1500,
+    "id": 1,
+    "status": "true"
+  },
+  {
+    "title": "Suplente",
+    "description": "Camiseta Suplente",
+    "category": "Primer equipo",
+    "price": 18500,
+    "thumbnails": ["2-s.avif"],
+    "code": "pincha702",
+    "stock": 1500,
+    "id": 2,
+    "status": "true"
+  },
+  {
+    "title": "Bilard10s",
+    "description": "Camiseta homenaje al doctor",
+    "category": "Primer equipo",
+    "price": 20000,
+    "thumbnails": ["3-ter.avif"],
+    "code": "pincha703",
+    "stock": 2503,
+    "id": 3,
+    "status": "true"
+  },
+  {
+    "title": "Andujar",
+    "description": "Camiseta de arquero",
+    "category": "Primer equipo",
+    "price": 18500,
+    "thumbnails": ["4-ar.avif"],
+    "code": "picha704",
+    "stock": 700,
+    "id": 4,
+    "status": "true"
+  },
+  {
+    "title": "Short titular",
+    "description": "Short titular",
+    "category": "Primer equipo",
+    "price": 13750,
+    "thumbnails": ["5-pt.avif"],
+    "code": "pincha705",
+    "stock": 1500,
+    "id": 5,
+    "status": "true"
+  },
+  {
+    "title": "Short arquero",
+    "description": "Short de arquero",
+    "category": "Primer equipo",
+    "price": 13750,
+    "thumbnails": ["6-par.avif"],
+    "code": "pincha706",
+    "stock": 1500,
+    "id": 6,
+    "status": "true"
+  },
+  {
+    "title": "Short Bilard10s",
+    "description": "Short en homenaje al doctor",
+    "category": "Primer equipo",
+    "price": 15800,
+    "thumbnails": ["7-pter.avif"],
+    "code": "pincha707",
+    "stock": 1500,
+    "id": 7,
+    "status": "true"
+  },
+  {
+    "title": "Camiseta entrenamiento",
+    "description": "Camiseta de entrenamiento con diseño",
+    "category": "Entrenamiento",
+    "price": 14450,
+    "thumbnails": ["public/parlantes.jpg"],
+    "code": "entrenamiento101",
+    "stock": 3823,
+    "id": 8,
+    "status": "true"
+  },
+  {
+    "title": "Campera rompevientos",
+    "description": "Campera impermeable",
+    "category": "Indumentaria",
+    "price": 23500,
+    "thumbnails": ["9-camp.avif"],
+    "code": "leon001",
+    "stock": 500,
+    "id": 9,
+    "status": "true"
+  },
+  {
+    "title": "Pechera",
+    "description": "Ideal para el fulbito de los findes",
+    "category": "Entrenamiento",
+    "price": 5700,
+    "thumbnails": ["10-pech.avif"],
+    "code": "entrenamiento102",
+    "stock": 1000,
+    "id": 10,
+    "status": "true"
+  }
+]
